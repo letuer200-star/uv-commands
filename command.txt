@@ -1,1 +1,1 @@
-BOTH
+BUZZER
